@@ -12,4 +12,4 @@ It also allows for methods to abstract the data structure they receive and only 
 Finally it also allows for high level for-loops to be used on said data structures, which is elegant for code usage (and again allows for swaps on all iterations through the change of the iterator implementation).
 
 ## Class Diagram
-![Class Diagram](./Class_Diagram.jpg)
+![Class Diagram](./Class_Diagram_BT.jpg)
