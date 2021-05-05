@@ -13,3 +13,6 @@ Finally it also allows for high level for-loops to be used on said data structur
 
 ## Class Diagram
 ![Class Diagram](./Class_Diagram_BT.jpg)
+
+## Sequence Diagram
+![Sequence Diagram](./Sequence_Diagram_BT.jpg)
